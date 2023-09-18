@@ -1,1 +1,3 @@
-the warm exercies
+# Learning Js Basics
+
+## Alx is Fun

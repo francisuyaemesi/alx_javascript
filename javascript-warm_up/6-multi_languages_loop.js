@@ -1,5 +1,8 @@
-let arr = ["C is fun", "Python is cool", "JavaScript is amazing"];
+#!/usr/bin/node
+// Iterating through the array items
+const items = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
 
-for (let i = 0; i < arr.length; i++) {
-  console.log(arr[i])
-} 
+
+for (let i = 0; i < items.length; i++) {
+  console.log(items[i]);
+}

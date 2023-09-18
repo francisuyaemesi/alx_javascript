@@ -1,11 +1,10 @@
 #!/usr/bin/node
 const myObject = {
-    type: 'object',
-    value: 12
-  };
-  console.log(myObject);
-  /*
-  YOUR CODE HERE
-  */
-  myObject.value = 89
-  console.log(myObject);
+  type: 'object',
+  value: 12
+};
+console.log(myObject);
+
+// Updated the value 12 to 89
+myObject.value = 89;
+console.log(myObject);
